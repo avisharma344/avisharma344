@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Avi Sharma</h1>
-<h3 align="center">A passionate Blockchain Developer from India.</h3>
+<h3 align="center">A passionate Frontend Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisharma344&label=Profile%20views&color=0e75b6&style=flat" alt="avisharma344" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avisharma344" alt="avisharma344" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/avi_the_sharma" target="blank"><img src="https://img.shields.io/twitter/follow/avi_the_sharma?logo=twitter&style=for-the-badge" alt="avi_the_sharma" /></a> </p>
-
-- 🔭 I’m currently working on [Whitelist-Dapp](http://whitelist-dapp-three-ruddy.vercel.app/)
-
-- 🌱 I’m currently learning **Solidity,React,NextJS,JavaScript,SOLANA**
-
-- 🔭 I’m currently working on [NFT Collection and Minting](http://nft-collection-woad-five.vercel.app/)
-
-- 💬 Ask me about **Solidity, Web3, Crypto,**
 
 - 📫 How to reach me **21avisharma@gmail.com**
 
