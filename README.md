@@ -21,7 +21,7 @@
 ---
 
 ### 💼 Professional Background  
-- 👨‍💻 Java Developer at **Cognizant** (2024 – Present)  
+- 👨‍💻 Java & Reltio MDM Developer at **Cognizant** (2024 – Present)  
 - 🚀 Transitioning into **DevOps & Cloud Engineering**  
 - 📈 Exploring opportunities to apply **automation, CI/CD, and cloud skills** in real-world projects  
 
