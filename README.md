@@ -1,76 +1,66 @@
 <h1 align="center">Hi 👋, I'm Avi Sharma</h1>
-<h3 align="center">🚀 DevOps Enthusiast | Cloud & Automation Learner</h3>
+<h3 align="center">🚀 Java Developer | Spring Boot & Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avisharma344&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://twitter.com/avi_the_sharma" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/avi_the_sharma?logo=twitter&style=flat-square" alt="twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/avi-sharma-019201145" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="linkedin"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=avisharma344&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<a href="https://twitter.com/avi_the_sharma" target="_blank">
+<img src="https://img.shields.io/twitter/follow/avi_the_sharma?logo=twitter&style=flat-square" alt="twitter"/>
+</a>
+<a href="https://linkedin.com/in/avi-sharma-019201145" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="linkedin"/>
+</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently learning **DevOps, Cloud (AWS), CI/CD, and Kubernetes**  
-- ⚡ Interested in **Cloud Infrastructure, Automation & SRE Practices**  
-- 📫 Reach me at **21avisharma@gmail.com**
+- 🌱 Currently focusing on **Java Development, Spring Boot, REST APIs, and Microservices**  
+- ⚡ Passionate about **clean code, backend architecture, and building scalable applications**  
+- 📫 Reach me at **21avisharma@gmail.com**  
 
 ---
 
 ### 💼 Professional Background  
 - 👨‍💻 Java & Reltio MDM Developer at **Cognizant** (2024 – Present)  
-- 🚀 Transitioning into **DevOps & Cloud Engineering**  
-- 📈 Exploring opportunities to apply **automation, CI/CD, and cloud skills** in real-world projects  
+- 🚀 Transitioning fully into **Java Backend Development with Spring Boot**  
+- 📈 Exploring opportunities to apply **Java, Spring Boot, and REST API skills** in real-world projects  
 
 ---
 
 ### 🔧 Tech Stack  
 
-#### 🖥️ Programming & Scripting
+#### 🖥️ Programming
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
 </p>
 
-#### ⚙️ DevOps & Cloud Tools (Learning & Using)
+#### ⚙️ Frameworks & Tools
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/> 
-</p>
-
-#### 🌐 Web Development Background
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> 
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avisharma344&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avisharma344&theme=tokyonight" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisharma344&layout=compact&theme=tokyonight" alt="langs"/>
-</p>
+### 🚀 Projects & Learning
+- **Spring Boot REST APIs** – CRUD applications with Spring Data JPA & MySQL  
+- **Microservices Architecture** – Building modular backend services  
+- **Java OOP Projects** – Core Java concepts applied to real-world problems  
+- **Unit Testing** – JUnit & Mockito for backend testing  
 
 ---
 
-### 🌍 Connect with Me  
-<p align="left">
-  <a href="https://twitter.com/avi_the_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avi_the_sharma" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/avi-sharma-019201145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avi-sharma-019201145" height="30" width="40" /></a>
-</p>
+### 📫 Let's Connect  
+- LinkedIn: [https://linkedin.com/in/avi-sharma-019201145](https://linkedin.com/in/avi-sharma-019201145)  
+- Twitter: [https://twitter.com/avi_the_sharma](https://twitter.com/avi_the_sharma)  
+- Email: 21avisharma@gmail.com  
+
+---
+
+💬 “Building clean, efficient, and scalable Java applications while mastering Spring Boot and backend development.”
